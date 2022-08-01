@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TEST_API_Payment", "TEST_API_Payment\", "{2735BD4E-51A8-4FCD-8AF3-AB22687DBB22}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50500"
+		Debug.AspNetCompiler.PhysicalPath = "TEST_API_Payment\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50500\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50500"
+		Release.AspNetCompiler.PhysicalPath = "TEST_API_Payment\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50500\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50500"
+		SlnRelativePath = "TEST_API_Payment\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2735BD4E-51A8-4FCD-8AF3-AB22687DBB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2735BD4E-51A8-4FCD-8AF3-AB22687DBB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D2CAFE-31A9-4322-AA31-1E99D314C097}
+	EndGlobalSection
+EndGlobal
